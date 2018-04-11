@@ -1,0 +1,36 @@
+{
+    "salesUnitName":"Each",
+    "currency":"USD",
+    "salesUnitCode":"EA",
+    "rating":"4.8",
+    "pictures":[
+        "https://s3-us-west-1.amazonaws.com/mulesoft/catmane-S.jpg",
+        "https://s3-us-west-1.amazonaws.com/mulesoft/catmane-L.jpg",
+        "https://s3-us-west-1.amazonaws.com/mulesoft/boosted.jpg",
+        "https://s3-us-west-1.amazonaws.com/mulesoft/catmane-M.jpg",
+        "https://s3-us-west-1.amazonaws.com/mulesoft/socks.jpg"
+    ],
+    "identifiers":[
+        {
+            "SKU": "LN-2230"
+        },
+        {
+            "SKU": "LN-2232"
+        },
+        {
+            "SKU": "BPN-100773"
+        },
+        {
+            "SKU": "LN-2231"
+        },
+        {
+            "SKU": "SW-G12"
+        }
+    ],
+    "brand":"SmartPets",
+    "uuid":"1295527d-d3c7-11e7-9c84-06bf056d193e",
+    "description":"Lion Mane costume hat for cats and dogs SMALL: Best fits slim cats and kittens. Neck circumference22-26cm LARGE: Best fits most cats or small dogs. Neck circumference up to35cm",
+    "currencyValue":"24.00",
+    "model":"Lion Mane Costume",
+    "categoryUUID":"ed432f91-d3c5-11e7-9c84-06bf056d193e"
+}
